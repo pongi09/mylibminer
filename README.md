@@ -2,6 +2,7 @@
 # mylibminer
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/pongi09/mylibminer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pongi09/mylibminer/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mylibminer is to summarize the packages you have installed in your R libraries.
